@@ -1,6 +1,6 @@
 asgiref==3.2.3
 certifi==2024.7.4
-Django==4.2.30
+Django==5.2.16
 django-crispy-forms==1.8.1
 mistune==3.3.0
 Pygments==2.20.0
